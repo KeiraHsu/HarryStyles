@@ -1,4 +1,4 @@
 this is a git test.
 Now make changes...
 second change
-this is a change from branch dev
+this is a change from master
